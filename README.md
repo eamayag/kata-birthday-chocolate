@@ -27,6 +27,7 @@ birthday has the following parameter(s):
 Print an integer denoting the total number of ways that Lily can portion her chocolate bar to share with Ron.
 
 **Sample Input**
+
 5
 
 1 2 1 3 2
@@ -34,6 +35,7 @@ Print an integer denoting the total number of ways that Lily can portion her cho
 3 2
 
 **Sample Output** 
+
 2
 
 ### Explanation
